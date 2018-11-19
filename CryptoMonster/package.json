@@ -1,0 +1,15 @@
+{
+  "name": "cryptomonster",
+  "version": "1.0.0",
+  "description": "CryptoMonster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rodomar@outlook.com",
+  "license": "ISC",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.0.0",
+    "truffle": "^4.1.14"
+  }
+}
